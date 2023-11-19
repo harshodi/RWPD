@@ -1,0 +1,21 @@
+body::-webkit-scrollbar{
+    display: none;
+}
+
+.navbar{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(max-titov-M5-CoqEX2WQ-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+
+header{
+    width: 100%;
+    height: 89vh;
+
+}
+
+.hh{
+    height: 11vh;
+    background: linear-gradient(yellow,rgb(255, 145, 0),rgb(180, 50, 72),purple,blue);
+}
